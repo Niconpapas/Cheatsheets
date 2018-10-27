@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Cheatsheets\LINQ&Lambda\LINQ+Lambda\LINQ+Lambda\bin\Debug\LINQ+Lambda.exe.config
+C:\Users\Usuario\Desktop\Cheatsheets\LINQ&Lambda\LINQ+Lambda\LINQ+Lambda\bin\Debug\LINQ+Lambda.exe
+C:\Users\Usuario\Desktop\Cheatsheets\LINQ&Lambda\LINQ+Lambda\LINQ+Lambda\bin\Debug\LINQ+Lambda.pdb
+C:\Users\Usuario\Desktop\Cheatsheets\LINQ&Lambda\LINQ+Lambda\LINQ+Lambda\bin\Debug\Entities.dll
+C:\Users\Usuario\Desktop\Cheatsheets\LINQ&Lambda\LINQ+Lambda\LINQ+Lambda\bin\Debug\Entities.pdb
+C:\Users\Usuario\Desktop\Cheatsheets\LINQ&Lambda\LINQ+Lambda\LINQ+Lambda\obj\Debug\LINQ+Lambda.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Cheatsheets\LINQ&Lambda\LINQ+Lambda\LINQ+Lambda\obj\Debug\LINQ+Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Cheatsheets\LINQ&Lambda\LINQ+Lambda\LINQ+Lambda\obj\Debug\LINQ+Lambda.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Cheatsheets\LINQ&Lambda\LINQ+Lambda\LINQ+Lambda\obj\Debug\LINQ+Lambda.exe
+C:\Users\Usuario\Desktop\Cheatsheets\LINQ&Lambda\LINQ+Lambda\LINQ+Lambda\obj\Debug\LINQ+Lambda.pdb
