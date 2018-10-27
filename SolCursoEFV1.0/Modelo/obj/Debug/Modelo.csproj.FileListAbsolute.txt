@@ -1,0 +1,22 @@
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Modelo\bin\Debug\Modelo.dll
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Modelo\bin\Debug\Modelo.pdb
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Modelo\obj\Debug\Modelo.dll
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Modelo\obj\Debug\Modelo.pdb
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Modelo\bin\Debug\Modelo.dll
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Modelo\bin\Debug\Modelo.pdb
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Modelo\obj\Debug\Modelo.dll
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Modelo\obj\Debug\Modelo.pdb

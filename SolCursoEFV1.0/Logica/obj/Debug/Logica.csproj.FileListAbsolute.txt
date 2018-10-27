@@ -1,0 +1,34 @@
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\Logica.dll.config
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\Logica.dll
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\Logica.pdb
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\obj\Debug\Logica.dll
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\obj\Debug\Logica.pdb
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\Datos.dll
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\EntityFramework.dll
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\Modelo.dll
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\Datos.pdb
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\Datos.dll.config
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\Modelo.pdb
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\Modelo.dll.config
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\EntityFramework.xml
+C:\Users\EducaciónIT\Desktop\Clase 1\SolCursoEF\Logica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\Logica.dll.config
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\Logica.dll
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\Logica.pdb
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\Datos.dll
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\EntityFramework.dll
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\Modelo.dll
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\Datos.pdb
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\Datos.dll.config
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\Modelo.pdb
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\Modelo.dll.config
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\EntityFramework.xml
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\obj\Debug\Logica.dll
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\Logica\obj\Debug\Logica.pdb

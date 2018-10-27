@@ -1,0 +1,7 @@
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\ProyLINQ\bin\Debug\ProyLINQ.exe.config
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\ProyLINQ\bin\Debug\ProyLINQ.exe
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\ProyLINQ\bin\Debug\ProyLINQ.pdb
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\ProyLINQ\obj\Debug\ProyLINQ.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\ProyLINQ\obj\Debug\ProyLINQ.exe
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\ProyLINQ\obj\Debug\ProyLINQ.pdb
+C:\Users\EducaciónIT\Desktop\Clase2\SolCursoEFV1.0\ProyLINQ\obj\Debug\ProyLINQ.csprojResolveAssemblyReference.cache
