@@ -1,0 +1,7 @@
+git	init
+	status
+	commit -m ''
+	checkout branchname
+	merge branchname
+	
+	
