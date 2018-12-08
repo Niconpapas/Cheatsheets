@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>JQuery Cheatsheet</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <style>
+        body{
+            font-size: 17px;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f4f4f4;
+            line-height: 1.5em;
+        }
+        header{
+            background: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 4px #000 solid;
+            margin-bottom: 10px;
+        }
+        #container{
+            width: 90%;
+            margin: auto;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>JQuery Crash</h1>
+    </header>
+    <div id="container">
+        <h3>JQuery Events</h3>
+        <button id="btn1" class="btn-class">Button 1</button>
+        <button id="btn2">Button 2</button>
+        <p class="para1">
+            Lorem ipsum dolor sit amet, 
+            consectetur adipisicing elit. 
+            Maiores temporibus ullam dolorum 
+            reprehenderit sed velit 
+            totam itaque, accusamus error suscipit?
+        </p>
+        <h1 id="coords"></h1>
+        <hr>
+        <form id="form" >
+            <label>Name</label>
+            <input type="text" id="name" name="name">
+            <br>
+            <label>Email</label>
+            <input type="text" name="email" id="email">
+            <br>
+            <label>Gender</label>
+            <select name="gender" id="gender">
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+            </select>
+            <br>
+            <input type="submit" value="submit">
+        </form>
+    </div> 
+    <script>
+        $('document').ready(function(){
+            // $('#btn1').click(function(){
+            // alert('Button click');
+            // });
+
+            // $('#btn1').on('click',function(){
+            //     alert('Button clicked');
+            // });
+                
+            // $('#btn1').on('click',function(){
+            //     //$('.para1').hide();
+            //     $('.para1').toggle();
+            // })
+            // $('#btn2').on('click',function(){
+            //     $('.para1').show();
+            // })
+            // $('#btn1').dblclick(function(){
+            //     $('.para1').toggle();
+            // });
+            // $('#btn1').hover(function(){
+            //     $('.para1').toggle();
+            // }); //no funciona con .on(); conbina mouse enter and mouse leave
+            
+            // $('#btn1').on('mousemove',function(){
+            //     $('.para1').toggle();
+            // });
+            //mousedown & mouseup (press)
+            
+            // $('#btn1').on('click',function(e){
+            //     //console.log(e);
+            //     //console.log(e.currentTarget.id);
+            //     //console.log(e.currentTarget.outerHTML);
+            //     console.log(e.currentTarget.className);
+            // });
+            // $('#btn1').on('mousemove',function(e){
+            //     console.log('Coords: Y: '+e.clientY+' X: '+e.clientX);
+            // });
+            $(document).on('mousemove',function(e){
+                $('#coords').html('Coords X:'+e.clientX+' Y:'+e.clientY);
+            });
+            
+            $('input').focus(function(){
+                // alert('focus');
+                $(this).css('background','pink');
+            });
+            $('input').blur(function(){
+                // alert('focus');
+                $(this).css('background','white');
+            });
+
+            $('input').keyup(function(e){
+                console.log(e.target.value);
+            });
+
+            $('select#gender').change(function(e){
+                console.log('change to '+e.target.value);
+            });
+            
+            $('#form').submit(function(e){
+                e.preventDefault();
+                var name=$('input#name').val();
+                console.log(name);
+            });
+
+        });
+        
+    </script>
+</body>
+</html>
