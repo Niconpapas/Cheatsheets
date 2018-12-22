@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Cheatsheets\DelegatesAndEvents\SimpleFormDelegate\bin\Debug\SimpleFormDelegate.exe.config
+C:\Users\Usuario\Desktop\Cheatsheets\DelegatesAndEvents\SimpleFormDelegate\bin\Debug\SimpleFormDelegate.exe
+C:\Users\Usuario\Desktop\Cheatsheets\DelegatesAndEvents\SimpleFormDelegate\bin\Debug\SimpleFormDelegate.pdb
+C:\Users\Usuario\Desktop\Cheatsheets\DelegatesAndEvents\SimpleFormDelegate\obj\Debug\SimpleFormDelegate.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Cheatsheets\DelegatesAndEvents\SimpleFormDelegate\obj\Debug\SimpleFormDelegate.Form1.resources
+C:\Users\Usuario\Desktop\Cheatsheets\DelegatesAndEvents\SimpleFormDelegate\obj\Debug\SimpleFormDelegate.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Cheatsheets\DelegatesAndEvents\SimpleFormDelegate\obj\Debug\SimpleFormDelegate.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Cheatsheets\DelegatesAndEvents\SimpleFormDelegate\obj\Debug\SimpleFormDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Cheatsheets\DelegatesAndEvents\SimpleFormDelegate\obj\Debug\SimpleFormDelegate.exe
+C:\Users\Usuario\Desktop\Cheatsheets\DelegatesAndEvents\SimpleFormDelegate\obj\Debug\SimpleFormDelegate.pdb
