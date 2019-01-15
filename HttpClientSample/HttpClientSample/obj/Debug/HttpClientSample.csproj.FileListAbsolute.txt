@@ -1,0 +1,2 @@
+C:\Users\Usuario\Desktop\Cheatsheets\HttpClientSample\HttpClientSample\obj\Debug\HttpClientSample.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Cheatsheets\HttpClientSample\HttpClientSample\obj\Debug\HttpClientSample.csproj.CoreCompileInputs.cache
